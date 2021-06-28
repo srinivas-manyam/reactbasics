@@ -1,12 +1,12 @@
 import { Typography } from "@material-ui/core";
 import React from "react";
 
-const About = () => {
+const PageNotFound = () => {
   return (
     <Typography variant="h1" style={{ marginTop: "100px" }}>
-      About Page
+      Page Not Found
     </Typography>
   );
 };
 
-export default About;
+export default PageNotFound;
